@@ -1,0 +1,19 @@
+{
+  "name": "thirdtestproject",
+  "version": "1.0.0",
+  "description": "Test Project by learning from udemy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Kushal",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
